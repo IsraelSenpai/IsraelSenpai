@@ -1,6 +1,15 @@
-Thanks for downloading this theme!
+Obrigado por baixar este tema!!!
 
-Theme Name: TheEvent
-Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+#REDES SOCIAIS
+
+##LINKEDIN
+###https://www.linkedin.com/in/israel-faustino-ba40a7221/
+
+##PINTEREST
+###https://br.pinterest.com/israelsenpaiii/_saved/
+
+##INSTAGRAM
+###israelsenpai
+
+##GMAIL
+###israelsenpaiii@gmail.com
