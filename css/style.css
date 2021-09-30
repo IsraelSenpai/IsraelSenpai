@@ -1,14 +1,3 @@
-/*
-  Theme Name: TheEvent
-  Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
-
 body {
   background: #fff;
   color: #2f3138;
@@ -54,8 +43,6 @@ h6 {
   visibility: hidden;
 }
 
-/* Prelaoder */
-
 #preloader {
   position: fixed;
   left: 0;
@@ -66,8 +53,6 @@ h6 {
   overflow: visible;
   background: #fff url("../img/preloader.svg") no-repeat center center;
 }
-
-/* Back to top button */
 
 .back-to-top {
   position: fixed;
@@ -98,9 +83,6 @@ h6 {
   background: #e0072f;
   color: #fff;
 }
-
-/* Sections Header
---------------------------------*/
 
 .section-header {
   margin-bottom: 60px;
@@ -139,10 +121,6 @@ h6 {
 .section-with-bg {
   background-color: #f6f7fd;
 }
-
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
 
 #header {
   height: 90px;
@@ -189,12 +167,6 @@ h6 {
   max-height: 40px;
 }
 
-/*--------------------------------------------------------------
-# Navigation Menu
---------------------------------------------------------------*/
-
-/* Nav Menu Essentials */
-
 .nav-menu,
 .nav-menu * {
   margin: 0;
@@ -233,8 +205,6 @@ h6 {
   min-width: 180px;
 }
 
-/* Nav Menu Arrows */
-
 .sf-arrows .sf-with-ul {
   padding-right: 30px;
 }
@@ -252,14 +222,10 @@ h6 {
   content: "\f105";
 }
 
-/* Nav Meu Container */
-
 #nav-menu-container {
   float: right;
   margin: 0;
 }
-
-/* Nav Meu Styling */
 
 .nav-menu a {
   padding: 8px;
@@ -354,8 +320,6 @@ h6 {
   margin: 0;
 }
 
-/* Mobile Nav Toggle */
-
 #mobile-nav-toggle {
   position: fixed;
   right: 0;
@@ -374,8 +338,6 @@ h6 {
 #mobile-nav-toggle i {
   color: #fff;
 }
-
-/* Mobile Nav Styling */
 
 #mobile-nav {
   position: fixed;
@@ -448,7 +410,6 @@ h6 {
   display: none;
 }
 
-/* Mobile Nav body classes */
 
 body.mobile-nav-active {
   overflow: hidden;
@@ -461,10 +422,6 @@ body.mobile-nav-active #mobile-nav {
 body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
-
-/*--------------------------------------------------------------
-# Intro Section
---------------------------------------------------------------*/
 
 #intro {
   width: 100%;
@@ -650,10 +607,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 
-/*--------------------------------------------------------------
-# About Section
---------------------------------------------------------------*/
-
 #about {
   background: url("../img/about-bg.jpg");
   background-size: cover;
@@ -693,10 +646,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 20px;
   color: #fff;
 }
-
-/*--------------------------------------------------------------
-# Speakers Section
---------------------------------------------------------------*/
 
 #speakers {
   padding: 60px 0 30px 0;
@@ -790,10 +739,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 15px;
   margin-bottom: 10px;
 }
-
-/*--------------------------------------------------------------
-# Schedule Section
---------------------------------------------------------------*/
 
 #schedule {
   padding: 60px 0 60px 0;
@@ -889,10 +834,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 0;
 }
 
-/*--------------------------------------------------------------
-# Venue Section
---------------------------------------------------------------*/
-
 #venue {
   padding: 60px 0;
 }
@@ -955,10 +896,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   transform: scale(1.1);
 }
 
-/*--------------------------------------------------------------
-# Hotels Section
---------------------------------------------------------------*/
-
 #hotels {
   padding: 60px 0;
 }
@@ -1015,10 +952,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 15px;
 }
 
-/*--------------------------------------------------------------
-# Gallery Section
---------------------------------------------------------------*/
-
 #gallery {
   padding: 60px;
   overflow: hidden;
@@ -1061,10 +994,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   z-index: 1;
 }
 
-/*--------------------------------------------------------------
-# supporters Section
---------------------------------------------------------------*/
-
 #supporters {
   padding: 60px 0;
 }
@@ -1101,10 +1030,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #supporters img {
   transition: all 0.4s ease-in-out;
 }
-
-/*--------------------------------------------------------------
-# F.A.Q Section
---------------------------------------------------------------*/
 
 #faq {
   padding: 60px 0;
@@ -1152,10 +1077,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #faq #faq-list a.collapsed i::before {
   content: "\f055" !important;
 }
-
-/*--------------------------------------------------------------
-# Subscribe Section
---------------------------------------------------------------*/
 
 #subscribe {
   padding: 60px;
@@ -1206,10 +1127,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #subscribe button:hover {
   background: #e0072f;
 }
-
-/*--------------------------------------------------------------
-# Buy Tickets Section
---------------------------------------------------------------*/
 
 #buy-tickets {
   padding: 60px 0;
@@ -1282,10 +1199,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #buy-tickets #buy-ticket-modal .btn:hover {
   background-color: #e0072f;
 }
-
-/*--------------------------------------------------------------
-# Contact Section
---------------------------------------------------------------*/
 
 #contact {
   padding: 60px 0;
@@ -1386,10 +1299,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .form button[type="submit"]:hover {
   background: #e0072f;
 }
-
-/*--------------------------------------------------------------
-# Footer
---------------------------------------------------------------*/
 
 #footer {
   background: #101522;
@@ -1536,10 +1445,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ddd;
 }
-
-/*--------------------------------------------------------------
-# Responsive Media Queries
---------------------------------------------------------------*/
 
 @media (min-width: 767px) {
   #subscribe input {
