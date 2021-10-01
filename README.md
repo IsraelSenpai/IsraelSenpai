@@ -28,3 +28,6 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<h1 align="center"><h1 align="center">
+    <img alt="Readme" title="Readme" src="apple-touch-icon.png">
+</h1>
