@@ -20,10 +20,11 @@
 <br>
  
 <h1 align="center">
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img style="border-radius:50px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img style="border-radius:50px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img style="border-radius:50px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img style="border-radius:50px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img style="border-radius:50px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img style="border-radius:50px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:israelsenpaiii@gmail.com" target="_blank"><img src="Social/gmail.png" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="Social/instagram.png" target="_blank"></a>
+  <a https://www.linkedin.com/in/israelsenpai" target="_blank"><img src="Social/linkedin.png" target="_blank"></a>
+  <a href="https://m.me/israelsenpaii" target="_blank"><img src="Social/mensseger.png" target="_blank"></a>
+  <a https://br.pinterest.com/israelsenpaiii/_created/" target="_blank"><img src="Social/pinterest.png" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="Social/whatsapp.png" target="_blank"></a>
 </h1>
+
