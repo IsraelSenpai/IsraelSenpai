@@ -4,7 +4,7 @@
 
   <div align="center" href="https://github.com/IsraelSenpai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsraelSenpai&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSenpai&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSenpai&layout=compact&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
