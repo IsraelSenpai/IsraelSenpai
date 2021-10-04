@@ -3,19 +3,18 @@
 </div>
 
 
+
   <div align="center" href="https://github.com/IsraelSenpai">
   <img height="172em" src="https://github-readme-stats.vercel.app/api?username=IsraelSenpai&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
   <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSenpai&layout=compact&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="IsraelSenpai-HTML" height="54" width="50" margin-left="50px" src="linguagens/html.png">
+  <img align="center" alt="IsraelSenpai-CSS" height="54" width="50" src="linguagens/css.png">
+  <img align="center" alt="IsraelSenpai-C++" height="54" width="50" src="linguagens/c++.png">
+  <img align="center" alt="IsraelSenpai-Bootstrap" height="54" width="50" src="linguagens/boots.png">
+  <img align="center" alt="IsraelSenpai-Js" height="54" width="50" src="linguagens/java.png">
 </div>
   
 <br>
