@@ -10,11 +10,11 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="IsraelSenpai-HTML" height="60" width="50" margin-left="50px" src="linguagens/html.png">
-  <img align="center" alt="IsraelSenpai-CSS" height="60" width="50" src="linguagens/css.png">
-  <img align="center" alt="IsraelSenpai-C++" height="60" width="50" src="linguagens/c++.png">
-  <img align="center" alt="IsraelSenpai-Bootstrap" height="60" width="50" src="linguagens/boots.png">
-  <img align="center" alt="IsraelSenpai-Js" height="60" width="50" src="linguagens/java.png">
+  <img align="center" alt="IsraelSenpai-HTML" height="50" width="60" margin-left="50px" src="linguagens/html.png">
+  <img align="center" alt="IsraelSenpai-CSS" height="50" width="60" src="linguagens/css.png">
+  <img align="center" alt="IsraelSenpai-C++" height="50" width="60" src="linguagens/c++.png">
+  <img align="center" alt="IsraelSenpai-Bootstrap" height="50" width="60" src="linguagens/boots.png">
+  <img align="center" alt="IsraelSenpai-Js" height="50" width="60" src="linguagens/java.png">
 </div>
   
 <br>
