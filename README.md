@@ -5,16 +5,16 @@
 
 
   <div align="center" href="https://github.com/IsraelSenpai">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=IsraelSenpai&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSenpai&layout=compact&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsraelSenpai&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSenpai&layout=compact&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="IsraelSenpai-HTML" height="50" width="70" margin-left="50px" src="linguagens/html.png">
-  <img align="center" alt="IsraelSenpai-CSS" height="50" width="70" src="linguagens/css.png">
-  <img align="center" alt="IsraelSenpai-C++" height="50" width="70" src="linguagens/c++.png">
-  <img align="center" alt="IsraelSenpai-Bootstrap" height="50" width="70" src="linguagens/boots.png">
-  <img align="center" alt="IsraelSenpai-Js" height="50" width="70" src="linguagens/java.png">
+  <img align="center" alt="IsraelSenpai-HTML" height="40" width="70" margin-left="50px" src="linguagens/html.png">
+  <img align="center" alt="IsraelSenpai-CSS" height="40" width="70" src="linguagens/css.png">
+  <img align="center" alt="IsraelSenpai-C++" height="40" width="70" src="linguagens/c++.png">
+  <img align="center" alt="IsraelSenpai-Bootstrap" height="40" width="70" src="linguagens/boots.png">
+  <img align="center" alt="IsraelSenpai-Js" height="40" width="70" src="linguagens/java.png">
 </div>
   
 <br>
