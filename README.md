@@ -5,10 +5,10 @@
 
 
   <div align="center" href="https://github.com/israelsenpai">
-  <img height="170em" width="380rem" src="https://github-readme-stats.vercel.app/api?username=israelsenpai&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
-  <img height="170em" width="410rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelsenpai&layout=compact&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
-	  
 
+	  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelsenpai&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelsenpai&layout=compact&langs_count=7&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
 	  
 </div>
 
