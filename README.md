@@ -5,8 +5,8 @@
 
 
   <div align="center" href="https://github.com/IsraelSenpai">
-  <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api?username=IsraelSenpai&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
-  <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSenpai&layout=compact&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
+  <img height="170em" width="500" src="https://github-readme-stats.vercel.app/api?username=IsraelSenpai&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
+  <img height="170em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSenpai&layout=compact&bg_color=30,fc09ff,04e0e3&title_color=fff&text_color=fff"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
